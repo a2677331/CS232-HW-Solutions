@@ -1,4 +1,4 @@
 # CS232-Solutions
-CS232 Labs and Projects Solutions from Erie community college.
+CS232 Labs and Projects Solutions from Erie Community College.
 <br />
-Note: don't cheat, just learn and learn.
+Stay calm and just learn.
