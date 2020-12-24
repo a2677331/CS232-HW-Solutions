@@ -1,0 +1,13 @@
+
+
+		A		B		C		D		E
+nke		fa1		fa1		fa1		ok1		fa1
+ok1		fa2		fa2		fa2		fa2		ok2
+ok2		ok3		fa3		fa3		fa3		fa3
+ok3		nke		nke		nke		nke		nke
+fa1		fa2		fa2		fa2		fa2		fa2
+fa2		fa3		fa3		fa3		fa3		fa3
+fa3		nke		nke		nke		nke		nke
+
+
+

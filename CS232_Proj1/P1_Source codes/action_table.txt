@@ -1,0 +1,13 @@
+
+
+		A		B		C		D		E
+nke				
+ok1		
+ok2		
+ok3		alarm		alarm		alarm		unlock		alarm
+fa1		
+fa2		
+fa3		alarm		alarm		alarm		alarm		alarm	
+
+
+
