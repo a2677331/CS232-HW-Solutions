@@ -1,3 +1,2 @@
 # CS232-Solutions
-Labs and Projects solutions.
-Advanced Data Structure course from Erie community college.
+Labs and Projects of advanced data structure course from Erie community college.
